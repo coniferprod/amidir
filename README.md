@@ -16,6 +16,11 @@ which provides a safe Rust wrapper around the ALSA API.
 The parsing of the command line arguments relies on
 the [`clap`](https://crates.io/crates/clap) crate.
 
+## Resources
+
+Useful ALSA raw MIDI programming examples:
+[https://ccrma.stanford.edu/~craig/articles/linuxmidi/alsa-1.0/] 
+
 ## License
 
 The original `amidi` is licensed under GPL-2.0.
